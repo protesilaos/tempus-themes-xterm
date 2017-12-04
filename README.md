@@ -34,4 +34,4 @@ Enjoy!
 
 ## Additional resources
 
-Check out my [dotfiles](https://github.com/protesilaos/dotfiles) if you need any inspiration.
+For all available ports, refer to the main [Tempus themes repo](https://github.com/protesilaos/tempus-themes).
