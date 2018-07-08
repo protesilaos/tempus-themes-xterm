@@ -1,5 +1,7 @@
 # Tempus Themes for Xterm
 
+**DEPRECATION NOTICE — [MOVED TO GITLAB](https://gitlab.com/protesilaos/tempus-themes-xterm).**
+
 Xterm stores colour values in the `~/.Xresources`. This document will walk you through the process.
 
 ## We use the command line
